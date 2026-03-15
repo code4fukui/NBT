@@ -14,4 +14,8 @@ console.log(data);
 
 ## Reference
 
-- [NBTフォーマット - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/NBT%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88)
+- [NBT Format - Minecraft Wiki](https://minecraft.fandom.com/wiki/NBT_format)
+
+## License
+
+MIT License
