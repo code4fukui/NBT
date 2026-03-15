@@ -1,6 +1,6 @@
 # NBT.js
 
-JavaScript で Named Binary Tag フォーマットを扱うライブラリ。
+JavaScript で Named Binary Tag フォーマットを扱うライブラリです。
 
 ## 使い方
 

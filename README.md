@@ -1,6 +1,8 @@
 # NBT.js
 
-The Named Binary Tag format in JavaScript
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+The Named Binary Tag format in JavaScript.
 
 ## Usage
 
