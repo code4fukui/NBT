@@ -20,4 +20,4 @@ console.log(data);
 
 ## License
 
-MIT License
+MIT License — see [LICENSE](LICENSE).
