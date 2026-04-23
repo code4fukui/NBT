@@ -2,7 +2,7 @@
 
 > 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-The Named Binary Tag format in JavaScript.
+A JavaScript library for handling the Named Binary Tag format.
 
 ## Usage
 

@@ -1,10 +1,10 @@
 # NBT.js
 
-JavaScript で Named Binary Tag フォーマットを扱うライブラリです。
+JavaScriptでNamed Binary Tagフォーマットを扱うライブラリです。
 
 ## 使い方
 
-```JavaScript
+```javascript
 import { NBT } from "https://code4fukui.github.io/NBT/NBT.js";
 
 const bin = await Deno.readFile("level.dat");
@@ -18,4 +18,4 @@ console.log(data);
 
 ## ライセンス
 
-MIT License
+MIT License — see [LICENSE](LICENSE).
