@@ -1,10 +1,8 @@
 # NBT.js
 
-> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+JavaScript用のNamed Binary Tagフォーマット。
 
-The Named Binary Tag format in JavaScript.
-
-## Usage
+## 使い方
 
 ```JavaScript
 import { NBT } from "https://code4fukui.github.io/NBT/NBT.js";
@@ -14,10 +12,10 @@ const data = NBT.parse(bin);
 console.log(data);
 ```
 
-## Reference
+## 参考
 
 - [NBT Format - Minecraft Wiki](https://minecraft.fandom.com/wiki/NBT_format)
 
-## License
+## ライセンス
 
-MIT License — see [LICENSE](LICENSE).
+MIT License — 詳細は[LICENSE](LICENSE)を参照してください。
